@@ -1,0 +1,8 @@
+name: Kopi-Docka
+description: Cold backup tool for Docker Compose stacks using Kopia. Stack-aware, encrypted backups with optional Tailscale and multi-backend storage.
+url: https://github.com/TZERO78/kopi-docka
+license: MIT
+tags:
+  - backup
+  - docker
+  - recovery
